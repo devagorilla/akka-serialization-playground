@@ -1,2 +1,9 @@
-*.class
+.idea/
+.ensime
+.ensime_cache/
+.DS_Store
 *.log
+target/
+/logs/
+/logs-tst/
+/exportToHTML/
